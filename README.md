@@ -1,12 +1,30 @@
-WHEN I am logged in to the site
-THEN the menu options change to Search for Books, an option to see my saved books, and Logout
-WHEN I am logged in and enter a search term in the input field and click the submit button
-THEN I am presented with several search results, each featuring a book’s title, author, description, image, and a link to that book on the Google Books site and a button to save a book to my account
-WHEN I click on the Save button on a book
-THEN that book’s information is saved to my account
-WHEN I click on the option to see my saved books
-THEN I am presented with all of the books I have saved to my account, each featuring the book’s title, author, description, image, and a link to that book on the Google Books site and a button to remove a book from my account
-WHEN I click on the Remove button on a book
-THEN that book is deleted from my saved books list
-WHEN I click on the Logout button
-THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
+# new-books-now
+
+## Description
+
+This is a simple React app that can be used to search Google Books and save them to a user profile.
+
+## Links
+
+GitHub: https://github.com/comcel1/new-books-now </br>
+Heroku (deployed): </br>
+
+## Screenshot
+
+![localhost_3000](https://user-images.githubusercontent.com/90969624/169617724-dc7ebbb5-c3c2-4279-a909-837603f4c462.png)
+
+## Installation
+
+To install, clone the repo and run on a local server using npm run develop.
+
+## Usage
+
+This application can be run through a local server or by clicking on the Heroku deployment link above.
+
+## Questions
+
+Feel free to contact me with any questions.
+
+Paul Nelson</br>
+Email: paulnelson@comcast.net </br>
+GitHub: [comcel1](https://github.com/comcel1/)
