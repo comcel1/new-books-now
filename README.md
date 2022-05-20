@@ -7,7 +7,7 @@ This is a simple React app that can be used to search Google Books and save them
 ## Links
 
 GitHub: https://github.com/comcel1/new-books-now </br>
-Heroku (deployed): </br>
+Heroku (deployed): https://blooming-headland-43320.herokuapp.com/</br>
 
 ## Screenshot
 
